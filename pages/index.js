@@ -1,5 +1,5 @@
 function Home() {
-    return "<p>Amalie,</p><p>I would like to build a secure attachment with you &#10084;</p>"
+    return <h1>I would like to build a safe attachment. Give me a hug? ❤ </h1>
     
 }
 
